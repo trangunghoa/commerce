@@ -1,0 +1,21 @@
+{
+    "name": "trangunghoa/Commerce",
+    "description": "Ecommerce, It's vendor ecomerce for laravel",
+    "license": "MIT",
+    "keywords": ["Ecommerce", "Commerce"],
+    "authors": [
+        {
+            "name": "Trang Lee",
+            "email": "trangunghoa@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Trangunghoa\\Commerce\\": "src"
+        }
+    }
+}
